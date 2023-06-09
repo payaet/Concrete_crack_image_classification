@@ -19,7 +19,7 @@ Then, the dataset can be used to predict the crack in the concrete.
 ![alt text](beforetraining.PNG)
 - This model evaluation after training
 ![alt text](model_evaluation.PNG)
-This is the label vs pred array when making some prediction with the test dataset.
+-This is the label vs pred array when making some prediction with the test dataset.
 ![alt text](labelvpred.PNG)
 ## Credits for the dataset
 - https://data.mendeley.com/datasets/5y9wdsg2zt/2
